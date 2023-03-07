@@ -1,0 +1,24 @@
+{
+  "name": "solo-testing",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi-Mishra0704/Solo-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishi-Mishra0704/Solo-testing/issues"
+  },
+  "homepage": "https://github.com/Rishi-Mishra0704/Solo-testing#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
