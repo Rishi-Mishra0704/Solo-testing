@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1678186663939" clover="3.2.0">
+  <project timestamp="1678186663939" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7" elements="36" coveredelements="36" complexity="0" loc="21" ncloc="21" packages="1" files="4" classes="4"/>
+    <file name="calc.js" path="C:\Users\rishi\OneDrive\Desktop\Solo-testing\calc.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="15" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="cap.js" path="C:\Users\rishi\OneDrive\Desktop\Solo-testing\cap.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="revString.js" path="C:\Users\rishi\OneDrive\Desktop\Solo-testing\revString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="string.js" path="C:\Users\rishi\OneDrive\Desktop\Solo-testing\string.js">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="4" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
